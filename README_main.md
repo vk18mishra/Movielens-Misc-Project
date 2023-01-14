@@ -65,25 +65,27 @@ Just a folder containing the compiled/cached python files (above files). It's no
 ###  Just MySql Structure(without Data) Dump file
 
 Name: movielens_db_structure_vivek.sql
-Click this Link to Download(6 KB): *https://github.com/vk18mishra/Movielens-Misc-Project/releases/download/v1.0/movielens_db_structure_vivek.sql*
+
+**Click this Link to Download(6 KB)**: *https://github.com/vk18mishra/Movielens-Misc-Project/releases/download/v1.0/movielens_db_structure_vivek.sql*
 
 ###  MySql Structure and Data (Dump file)
 
 Name: movielens_db_vivek.sql
-Click this Link to Download(386 MB): *https://github.com/vk18mishra/Movielens-Misc-Project/releases/download/v1.0/movielens_db_vivek.sql*
+
+**Click this Link to Download(386 MB)**: *https://github.com/vk18mishra/Movielens-Misc-Project/releases/download/v1.0/movielens_db_vivek.sql*
 
 ###  Other MySql Files
 
-1. add_index.sql : MySql query to add indexes on movies, links, ratings and avg_rating_count Tables.
+1. **add_index.sql** : MySql query to add indexes on movies, links, ratings and avg_rating_count Tables.
 
-2. bigdata_input.sql : MySql query to load big file such as ratings.csv in our database table.
+2. **bigdata_input.sql** : MySql query to load big file such as ratings.csv in our database table.
 
-3. partitioning_avg_rating_count.sql : MySql query to partition avg_rating_count table based on movieId in equal parts. See Super Bonus task for how I got the specific movieId's so that the whole data is equally divided into 10 partitions.
+3. **partitioning_avg_rating_count.sql** : MySql query to partition avg_rating_count table based on movieId in equal parts. See Super Bonus task for how I got the specific movieId's so that the whole data is equally divided into 10 partitions.
 
-4. partitioning_movies.sql : MySql query to partition movies table based on movieId in equal parts. See Super Bonus task for how I got the specific movieId's so that the whole data is equally divided into 10 partitions.
+4. **partitioning_movies.sql** : MySql query to partition movies table based on movieId in equal parts. See Super Bonus task for how I got the specific movieId's so that the whole data is equally divided into 10 partitions.
 
-5. partitioning_ratings.sql : MySql query to partition ratings table based on movieId in equal parts. See Super Bonus task for how I got the specific movieId's so that the whole data is equally divided into 10 partitions.
+5. **partitioning_ratings.sql** : MySql query to partition ratings table based on movieId in equal parts. See Super Bonus task for how I got the specific movieId's so that the whole data is equally divided into 10 partitions.
 
-6. show_indexes.sql : MySql query to show indexes on a table.
+6. **show_indexes.sql** : MySql query to show indexes on a table.
     
     

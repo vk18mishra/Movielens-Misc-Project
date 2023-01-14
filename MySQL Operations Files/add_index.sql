@@ -1,0 +1,1 @@
+ALTER TABLE `avg_rating_count` ADD INDEX `movieId_index` (`movieId`);

@@ -1,21 +1,21 @@
 # Movie Database Project on Movielens Dataset
 
-This is a functional application "Movie Database", which will work with data in the form of an object model. This object model will be mapped to a relational database which is MySql to store data. We are using [Movielens-25m](https://grouplens.org/datasets/movielens/25m/) dataset for our application and performing different operations on this data. Feel free to check them out in the sidebar.
+**This is a functional application "Movie Database", which will work with data in the form of an object model. This object model will be mapped to a relational database which is MySql to store data. We are using [Movielens-25m](https://grouplens.org/datasets/movielens/25m/) dataset for our application and performing different operations on this data. Feel free to check them out in the sidebar.**
 
-This application is using SQLAlchemy as ORM.
+**This application is using SQLAlchemy as ORM.**
 
-This project is written in Python.
+**This project is written in Python.**
 
-All this into an interactive [Streamlit](https://streamlit.io) app.
+**All this into an interactive [Streamlit](https://streamlit.io) app.**
 
-### Questions? Comments?
+### Questions? Comments?**
 
-Please find me at: 
+**Please find me at:**
 
-[Github - Vivek Mishra](https://github.com/vk18mishra).
+**[Github - Vivek Mishra](https://github.com/vk18mishra).**
 
-[LinkedIn - Vivek Mishra](https://linkedin.com/in/itsvivekmishra).
+**[LinkedIn - Vivek Mishra](https://linkedin.com/in/itsvivekmishra).**
 
-or
+**or**
 
-Please ask in the [Streamlit community](https://discuss.streamlit.io).
+**Please ask in the [Streamlit community](https://discuss.streamlit.io).**
